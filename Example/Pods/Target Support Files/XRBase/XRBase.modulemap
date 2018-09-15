@@ -1,0 +1,6 @@
+framework module XRBase {
+  umbrella header "XRBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
