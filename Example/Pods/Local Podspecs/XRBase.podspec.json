@@ -23,6 +23,5 @@
     "XRBase": [
       "XRBase/Assets/*.png"
     ]
-  },
-  "public_header_files": "Pod/Classes/XRBase/XRBaseHeader.h"
+  }
 }
