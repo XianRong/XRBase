@@ -1,5 +1,5 @@
 PODS:
-  - XRBase (0.1.0)
+  - XRBase (0.1.1)
 
 DEPENDENCIES:
   - XRBase (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XRBase: d3ead8b01fb952709e8d85843b6c47b8bf3713ad
+  XRBase: 7bb23739de30143cd2d3753595ddf8027b56f4ca
 
 PODFILE CHECKSUM: e4becc413b9ad8c64e756e4f0952a217102b79bf
 

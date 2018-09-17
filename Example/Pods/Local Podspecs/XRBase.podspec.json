@@ -1,9 +1,9 @@
 {
   "name": "XRBase",
-  "version": "0.1.0",
-  "summary": "A short description of XRBase.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yhtyhrt6@qq.com/XRBase",
+  "version": "0.1.1",
+  "summary": "XRBase.",
+  "description": "分类、工具类等组成的基础组件",
+  "homepage": "https://github.com/XianRong/XRBase",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,17 @@
     "yhtyhrt6@qq.com": "yhtyhrt6@qq.com"
   },
   "source": {
-    "git": "https://github.com/yhtyhrt6@qq.com/XRBase.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/XianRong/XRBase.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "XRBase/Classes/**/*"
+  "source_files": "XRBase/Classes/**/*",
+  "resource_bundles": {
+    "XRBase": [
+      "XRBase/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/XRBase/XRBaseHeader.h"
 }
